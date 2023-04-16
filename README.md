@@ -1,4 +1,4 @@
-[GitHub Repository](https://github.com/ElieMuluke/AI_Microsoft_Sentiment_analysis_on_twitter)
+[Sentiment Analysis Project GitHub Repository](https://github.com/ElieMuluke/AI_Microsoft_Sentiment_analysis_on_twitter)
 
 # AI_Microsoft_Sentiment_analysis_on_twitter
 
